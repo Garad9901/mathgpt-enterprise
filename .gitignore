@@ -1,0 +1,19 @@
+# Environments
+backend/venv/
+backend/.env
+backend/__pycache__/
+*.pyc
+
+# Database
+backend/*.db
+
+# Node dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/.eslintcache
+
+# Logs & Temp
+.system_generated/
+.gemini/
+*.log
+elan-init.ps1
